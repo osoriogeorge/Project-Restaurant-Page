@@ -1,6 +1,6 @@
-import homeLoad from "./home";
-import menuLoad from "./menu";
-import contactLoad from "./contact";
+import homeLoad from "./modules/home";
+import menuLoad from "./modules/menu";
+import contactLoad from "./modules/contact";
 
 function initializePage() {
   const content = document.getElementById("content");
