@@ -28,7 +28,7 @@ This project aims to demonstrate basic web development skills by creating a func
 
 - **HTML:** For structuring the content of the webpage.
 - **CSS:** For styling the webpage and making it visually appealing.
-- **JavaScript:** For adding interactivity and dynamic functionality (if applicable).
+- **JavaScript:** For adding interactivity and dynamic functionality.
 
 ## Installation
 
@@ -52,4 +52,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## Contact
 
 - **GitHub:** https://github.com/osoriogeorge/Project-Restaurant-Page.git
-- **Email:** your.email@example.com (Optional)
